@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+new update on branch development :
+<br>
+[Visit my Nebraska static use ( HTML , css js )](https://www.nebraskav2.sulaslansetiawan.cfd)
+<br>
+[Nebraska v2 laravel 11](https://github.com/aslan-asilon31/nebraska_v2_laravel11)
+<br>
+[Nebraska v2 laravel 10](https://github.com/aslan-asilon31/nebraska_laravel10)
+<br>
+[Nebraska v2 Codeigniter 4](https://github.com/aslan-asilon31/nebraska_v2_codeigniter4)
+<br>
+[Nebraska v2 Yii2](https://github.com/aslan-asilon31/nebraska_v2_yii2)
+<br>
+[Nebraska v2 Python Django](https://github.com/aslan-asilon33/nebraska_v2_django.git)
+<br>
+[Nebraska v2 NestJS](https://github.com/aslan-asilon34/nebraska_v2_nestjs.git)
+<br>
+[Nebraska v2 NuxtJS](https://github.com/aslan-asilon34/nebraska_v2_nuxtjs.git)
+<br>
+[Nebraska v2 NextJS](https://github.com/aslan-asilon34/nebraska_v2_nextjs.git)
+<br>
+[Nebraska v2 VueJS](https://github.com/aslan-asilon34/nebraska_v2_vuejs.git)
+<br>
+[Nebraska v2 ReactJS](https://github.com/aslan-asilon34/nebraska_v2_vuejs.git)
+<br>
+![nextjs](https://github.com/aslan-asilon34/nebraska_v2_nextjs/assets/118856601/7c94e5c5-c10b-472e-9ed0-fce41ab7efb1)
