@@ -1,0 +1,38 @@
+"use client";
+
+import '@/app/styles/globals.css';
+import Footer from '@/components/backend/Footer';
+import HeaderDesktop from '@/components/backend/HeaderDesktop';
+import HeaderMobile from '@/components/backend/HeaderMobile';
+import Sidebar from '@/components/backend/Sidebar';
+
+export default function Home() {
+   
+
+    return (
+      <div className="flex">
+
+            <Sidebar/>
+
+            {/* Header and content  */}
+            <div className="relative w-full flex flex-col h-screen overflow-y-hidden">
+
+                <HeaderDesktop/>
+                <HeaderMobile/>
+
+                <div className="w-full h-screen overflow-x-hidden border-t flex flex-col">
+                    <main className="w-full flex-grow p-6">
+                        <h1 className="text-3xl text-white pb-6">Blank Page</h1>
+
+                        {/* <!-- Content goes here! 😁 --> */}
+                    </main>
+            
+                    <Footer/>
+                </div>
+            </div>
+
+      </div>
+  );
+
+}
+

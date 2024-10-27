@@ -1,0 +1,21 @@
+@import "flowbite";
+
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://unpkg.com/swiper@8/swiper-bundle.min.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-position: center center;
+    background-size: cover;
+    user-select: none;
+    color:black;
+    outline-color: tomato;
+    background-color: white;
+  }

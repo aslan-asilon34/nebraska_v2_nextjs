@@ -1,0 +1,39 @@
+@import "flowbite";
+
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-family-karla {
+  font-family: 'Karla', sans-serif;
+}
+
+.bg-sidebar {
+  background: #800080;
+}
+
+.cta-btn {
+  color: #800080;
+}
+
+.upgrade-btn {
+  background: #710193;
+}
+
+.upgrade-btn:hover {
+  background: #0038fd;
+}
+
+.active-nav-link {
+  background: #710193;
+}
+
+.nav-item:hover {
+  background: #710193;
+}
+
+.account-link:hover {
+  background: #800080;
+}

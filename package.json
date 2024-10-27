@@ -9,8 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "alpinejs": "^3.14.3",
+    "apexcharts": "^3.54.1",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.3",
+    "caniuse-lite": "^1.0.30001669",
+    "flowbite": "^2.5.2",
+    "flowbite-react": "^0.10.2",
+    "highcharts": "^11.4.8",
+    "highcharts-react-official": "^3.2.1",
+    "ionicons": "^7.4.0",
+    "jsvectormap": "^1.6.0",
+    "next": "14.1.4",
     "react": "^18",
+    "react-apexcharts": "^1.4.1",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "react-icons": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.7.8",
+    "@types/react": "18.3.11",
+    "postcss": "^8.4.47",
+    "prisma": "^5.21.1",
+    "tailwindcss": "^3.4.14",
+    "typescript": "5.6.3"
   }
 }

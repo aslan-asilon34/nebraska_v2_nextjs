@@ -1,0 +1,12 @@
+import ECommerce from "@/components/backend/Dashboard/Ecommerce";
+import DefaultLayout from "@/components/backend/Layouts/DefaultLayout";
+
+export default function Dashboard() {
+  return (
+    <>
+      <DefaultLayout>
+        <ECommerce />
+      </DefaultLayout>
+    </>
+  );
+}
